@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "contact_numbers",
+  "info": {
+    "singularName": "contact-number",
+    "pluralName": "contact-numbers",
+    "displayName": "Contact Number"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "contact_number": {
+      "type": "string"
+    }
+  }
+}

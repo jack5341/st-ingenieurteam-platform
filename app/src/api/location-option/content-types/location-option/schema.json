@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "location_options",
+  "info": {
+    "singularName": "location-option",
+    "pluralName": "location-options",
+    "displayName": "LocationOption"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "option": {
+      "type": "string"
+    }
+  }
+}
